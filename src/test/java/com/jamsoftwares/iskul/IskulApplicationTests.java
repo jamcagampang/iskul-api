@@ -9,5 +9,4 @@ class IskulApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
