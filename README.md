@@ -18,6 +18,7 @@ Current APIs:
 * **Cloud Platform**: AWS (EC2 - For Server Deployment)
 * **EC2 Server**: Amazon Linux
 * **Domain**: Hostinger (iskul.online)
+* **Logs Archival**: S3 Bucket + Shell Scripting + AWS CLI + Crontab
 
 ## Spring Boot Modules And Libraries
 * **Persistence**: JPA (Hibernate)
