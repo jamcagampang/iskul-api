@@ -42,5 +42,5 @@ Current APIs:
 * Creating different application profiles (dev, prod)
 * Field validations
 * Usage of constants
-* Unit Testing
+* Unit Testing (60% Coverage)
 * Automation
