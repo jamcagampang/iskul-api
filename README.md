@@ -25,13 +25,14 @@ Current APIs:
 * **Security**: Spring Security (Disabled)
 * **Database Driver**: Oracle Driver
 * **Utilities**: Actuator, Spring Boot DevTools, Lombok
+* **Unit Testing**: JUnit 5, Mockito, H2 DB
 
 ## Tools
 * **Startup**: Spring Initializr
 * **API Documentation**: Swagger UI
 * **API Testing**: Postman
 * **AWS Deployment**: Putty + WinSCP
-* **Version Control**: Git + GitHub
+* **CI / CD**: Git + GitHub Actions
 
 ## Best Practices
 * Utilizing available tools/technology such as Lombok, Spring Boot DevTools
@@ -40,3 +41,5 @@ Current APIs:
 * Creating different application profiles (dev, prod)
 * Field validations
 * Usage of constants
+* Unit Testing
+* Automation
