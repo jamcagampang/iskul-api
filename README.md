@@ -32,8 +32,8 @@ Current APIs:
 * **Startup**: Spring Initializr
 * **API Documentation**: Swagger UI
 * **API Testing**: Postman
-* **AWS Deployment**: Putty + WinSCP
-* **CI / CD**: Git + GitHub Actions
+* **AWS Deployment (Manual)**: Putty + WinSCP
+* **CI / CD (Partial)**: Git + GitHub Actions + AWS CLI + Shell Scripting
 
 ## Best Practices
 * Utilizing available tools/technology such as Lombok, Spring Boot DevTools
