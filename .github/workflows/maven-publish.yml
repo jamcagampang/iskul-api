@@ -36,4 +36,4 @@ jobs:
         aws-region: us-east-1
 
     - name: Deploy static site to S3 bucket
-      run: aws s3 cp /target/iskul-api-${{ variables.VERSION }}.jar s3://iskul-archives/builds/iskul-api.jar --delete
+      run: aws s3 cp /target/iskul-api-$VERSION.jar s3://iskul-archives/builds/iskul-api.jar --delete
